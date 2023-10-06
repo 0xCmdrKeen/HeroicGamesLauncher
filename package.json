@@ -268,6 +268,7 @@
     "husky": "^8.0.3",
     "i18next-parser": "^7.7.0",
     "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.7.0",
     "playwright": "^1.32.1",
     "prettier": "^2.8.1",
     "pretty-quick": "^3.1.3",
